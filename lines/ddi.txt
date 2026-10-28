@@ -1,0 +1,47 @@
+# quip lines: ddi
+# One entry per line: a level, a pipe character, then the text.
+# Level is 1 (straight-faced) to 5 (properly daft). 1 to 3 are work-safe.
+# {name} is a placeholder, filled with --set name=value. Write {{ and }}
+# for literal braces. Lines starting with # are comments.
+
+1 | Deepdelve Dynamic Instruments. Instruments for the long dark.
+1 | Built below. Built to last.
+1 | Assay Office inspection mark verified.
+1 | Torque stripe intact.
+1 | Self-test complete. {model} passed.
+1 | Service by authorised Delver only.
+2 | Unauthorised disassembly voids your Delver Warranty.
+2 | Field Delvers are reminded to log all faults. All of them.
+2 | This unit was inspected by the Assay Office. The Assay Office was satisfied.
+2 | Compliance with Hearth Consolidation standards confirmed.
+2 | Calibration certificate on file. The file is somewhere below.
+2 | {model} is within tolerance. Tolerance is defined by the Assay Office.
+2 | All readings are provisional pending Assay Office review.
+2 | Deep Works has been notified. Deep Works has not replied.
+2 | Please retain the original packaging. The Assay Office will ask.
+2 | D.D.I. thanks you for your continued custom.
+3 | The Assay Office has stamped this unit PASSED. It did not look closely.
+3 | Founded as a forge. Now incorporated. Still mostly hitting things.
+3 | Consulting the Hearth Consolidation handbook. It is very long...
+3 | The board assures shareholders that the forge is still in there somewhere.
+3 | A Field Delver has been dispatched. They will arrive eventually.
+3 | This unit was torque-striped by someone who cared.
+3 | Reminder: the warranty does not cover goblins, gremlins or users.
+3 | Our motto: Instruments for the long dark. Our budget: also dark.
+3 | Stamping the inspection mark with enormous confidence...
+3 | This unit survived testing to destruction, which was not the plan.
+3 | Deep Works says it should work. Deep Works says a lot of things.
+3 | Updating the Delver Warranty. The update is mostly in capitals.
+4 | The Hearth Consolidation took the forge. We kept the hammer.
+4 | Shareholders have been told that the fire is a growth opportunity.
+4 | This is a precision instrument. D.D.I. asks that you stop hitting it.
+4 | The Assay Office has found this unit morally acceptable.
+4 | Delver Warranty void. It was always void. Please do not tell the customers.
+4 | Initialising {model}. The board accepts no responsibility for this...
+4 | Everything on this screen is classified. So is this sentence.
+4 | Your call is important to the Deep Works. It is being ignored with care.
+5 | Delver Warranty void. Reason: you touched it, you absolute spanner.
+5 | Assay Office verdict: it works, nobody knows why, and nobody is to touch it.
+5 | D.D.I. thanks you for your custom. The board thinks you're a berk.
+5 | Built below. Built to last. Bollocks to the shareholders.
+5 | The board regrets nothing. The board has never read a log, the idle sods.

@@ -1,0 +1,14 @@
+# quip lines: error
+# One entry per line: a level, a pipe character, then the text.
+# Level is 1 (straight-faced) to 5 (properly daft). 1 to 3 are work-safe.
+# {name} is a placeholder, filled with --set name=value. Write {{ and }}
+# for literal braces. Lines starting with # are comments.
+
+1 | That did not work. Details are above, should you want them.
+1 | Operation failed. No data was harmed in the process.
+2 | The file has gone. It left no forwarding address.
+2 | {service} has stopped responding. It may be having a moment.
+3 | Unexpected result. The result was equally surprised.
+3 | {service} has fallen over and is refusing to be helped up.
+4 | It's buggered. Properly buggered. Check the log, then sit down.
+5 | That's properly fucked. {count} things are affected, none of them gladly.

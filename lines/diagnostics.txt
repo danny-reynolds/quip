@@ -1,0 +1,22 @@
+# quip lines: diagnostics
+# One entry per line: a level, a pipe character, then the text.
+# Level is 1 (straight-faced) to 5 (properly daft). 1 to 3 are work-safe.
+# {name} is a placeholder, filled with --set name=value. Write {{ and }}
+# for literal braces. Lines starting with # are comments.
+
+3 | [OK] Panic contained
+3 | [OK] Gremlins relocated
+3 | [OK] Hammer located
+2 | [OK] Tea brewed
+3 | [WARN] Logic not found
+3 | [OK] Beard calibration complete
+3 | [OK] Kobold eviction successful
+2 | [WARN] Mild confusion detected
+3 | [OK] Confidence simulated
+4 | [WARN] Unexpected competence
+3 | [OK] Phosphor warm
+3 | [OK] Neon stable
+3 | [OK] Sunset rendered
+2 | [OK] Mainframe awake
+3 | [WARN] Chrome level critically high
+4 | [WARN] Arpeggio running unsupervised

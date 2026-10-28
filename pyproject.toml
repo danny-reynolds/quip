@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quip"
+dynamic = ["version"]
+description = "A random line from a bank of quips, status messages, error jokes and boot text."
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.scripts]
+quip = "quip:main"
+
+[tool.setuptools]
+py-modules = ["quip"]
+
+[tool.setuptools.dynamic]
+version = {attr = "quip.__version__"}
+
+[tool.setuptools.data-files]
+"share/quip/lines" = ["lines/*.txt"]

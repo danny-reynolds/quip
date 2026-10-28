@@ -1,0 +1,14 @@
+# quip lines: status
+# One entry per line: a level, a pipe character, then the text.
+# Level is 1 (straight-faced) to 5 (properly daft). 1 to 3 are work-safe.
+# {name} is a placeholder, filled with --set name=value. Write {{ and }}
+# for literal braces. Lines starting with # are comments.
+
+1 | Idle. Waiting for instructions.
+1 | Everything is running. {count} services at last count.
+2 | Nothing to report, which is the best kind of report.
+2 | Standing by. Largely upright.
+3 | {hostname} is doing nothing, and doing it with real commitment.
+3 | Monitoring the situation. The situation has not noticed.
+4 | All quiet. Suspiciously quiet. I don't trust it.
+5 | Currently doing bugger all, and doing it extremely well.

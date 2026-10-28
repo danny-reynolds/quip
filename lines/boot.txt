@@ -1,0 +1,14 @@
+# quip lines: boot
+# One entry per line: a level, a pipe character, then the text.
+# Level is 1 (straight-faced) to 5 (properly daft). 1 to 3 are work-safe.
+# {name} is a placeholder, filled with --set name=value. Write {{ and }}
+# for literal braces. Lines starting with # are comments.
+
+1 | Starting up. Nothing unusual to report.
+1 | Checking that everything is where it was left.
+2 | Waking {hostname}. Nobody asked how it felt about this.
+2 | Loading the important bits first, as is customary.
+3 | Reading the instructions. Found them. Setting them aside for later.
+3 | Persuading the hardware that it has definitely done this before.
+4 | Booting {hostname}. Expectations were lowered in advance.
+5 | Right, I'm up, I'm up. Stop leaning on the power button, you impatient sod.

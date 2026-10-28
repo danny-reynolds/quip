@@ -1,0 +1,16 @@
+# quip lines: progress
+# One entry per line: a level, a pipe character, then the text.
+# Level is 1 (straight-faced) to 5 (properly daft). 1 to 3 are work-safe.
+# {name} is a placeholder, filled with --set name=value. Write {{ and }}
+# for literal braces. Lines starting with # are comments.
+
+3 | 12% complete. Emotionally, 3%.
+2 | Almost there. Probably.
+2 | This is taking longer than we'd like too.
+3 | Please continue pretending this is normal.
+2 | Still loading. Somehow.
+2 | Remarkably, not finished yet.
+3 | Nearly done inventing progress.
+2 | One unnecessary moment...
+3 | Please remain dramatically patient.
+2 | We are as surprised as you are.
